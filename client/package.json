@@ -2,7 +2,11 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "proxy": "http://localhost:8000",
+=======
+  "proxy": "http://localhost:5000",
+>>>>>>> 40633bd53067cb3b6b2989c02f28c137edc028f7
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
